@@ -2,6 +2,8 @@
 /**
  * _abs - Computes the absolute value of an int
  *
+ * int - integer to print
+ *
  * @i: input the number as integer
  *
  * Return: absolute value
